@@ -686,9 +686,9 @@ const timeline = [
   bot_check_2,
   comments,
   debriefing,
-  /*save_data,
-  prolific*/
-  save_local
+  save_data,
+  prolific
+  //save_local
 ];
 
 /* ---------- LANCEMENT DE L’EXPÉRIENCE ---------- */
